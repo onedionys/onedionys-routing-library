@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-routing-library",
+  "version": "1.0.0",
+  "description": "One Dionys (Routing Library) - A package to handle moving between pages or routes in a web application.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-routing-library.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "routing-library"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-routing-library/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-routing-library#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-data-storage": "^1.1.0",
+    "onedionys-debounce-throttle-functions": "^1.0.0",
+    "onedionys-dom-manipulation-helpers": "^1.1.0",
+    "onedionys-template-engine": "^1.0.0",
+    "onedionys-validation-library": "^1.0.0"
+  }
+}
