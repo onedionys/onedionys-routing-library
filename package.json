@@ -1,6 +1,6 @@
 {
   "name": "onedionys-routing-library",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Routing Library) - A package to handle moving between pages or routes in a web application.",
   "main": "src/index.js",
   "directories": {
